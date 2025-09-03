@@ -49,4 +49,4 @@ Overall, the dashboard provides a clear and comprehensive view of BMW’s sales 
 ## 👨‍💻 Developed by
 Khaled Tarek Ghattas
 Electrical Engineering Student – Unioeste
-[LinkedIn Profile](https://www.linkedin.com/in/khaledtarekg)
+[LinkedIn Profile](www.linkedin.com/in/khaled-ghattas-9b555b171)
