@@ -29,7 +29,7 @@ Revenue by transmission type (Manual vs Automatic)
 Revenue distribution by car color
 
 ## 📄 Dashboard Preview
-![Dashboard Preview](BMW-Sales.png)
+![BMW Sales](BMW Sales.png)
 ## 👨‍💻 Developed by
 
 Khaled Tarek Ghattas
