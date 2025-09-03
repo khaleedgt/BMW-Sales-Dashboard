@@ -8,9 +8,9 @@ The goal is to provide insights into sales distribution across multiple paramete
 
 ## 📁 Data Sources
 
-Sales data from BMW dataset 'BMW Sales data (2010-2024).csv'
+Sales data from BMW dataset `BMW Sales data (2010-2024).csv`
 
-Processed and visualized in Power BI 'BMW Sales Dashboard.pbix'
+Processed and visualized in Power BI `BMW Sales Dashboard.pbix`
 
 ## 🛠 Tools Used
 
